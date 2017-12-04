@@ -1,2 +1,2 @@
 # JSF_FiBu
-Finanzbuchhaltung als JSF Applikation
+Finanzbuchhaltung als JSF Application
